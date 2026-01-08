@@ -18,11 +18,7 @@ Metodologia de Investimentos em Valor segundo Benjamin Graham
 - Criar um sistema de revisão contínua (segundo cérebro)
 
 ## 🧠 Metodologia
-Foram selecionadas fontes abertas em texto e PDF sobre Benjamin Graham e sua
-filosofia de investimentos. Essas fontes foram adicionadas ao NotebookLM,
-que foi utilizado para:
-- Responder perguntas estratégicas
-- Testar variações de prompts
-- Gerar resumos estruturados e referências
-
-## 📂 Estrutura do Repositório
+Foram utilizadas fontes abertas disponíveis em sites e vídeos do YouTube,
+adicionadas ao NotebookLM por meio de links. A partir dessas fontes, o
+NotebookLM foi utilizado como um segundo cérebro para responder perguntas,
+gerar resumos e testar variações de prompts.
