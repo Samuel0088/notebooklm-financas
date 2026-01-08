@@ -1,24 +1,31 @@
 # 🧠 Segundo Cérebro Financeiro – Metodologia de Benjamin Graham
 
-Este repositório apresenta um caderno temático desenvolvido no NotebookLM,
-utilizado como um **segundo cérebro** para estudo, organização e revisão dos
-princípios de investimento em valor propostos por **Benjamin Graham**.
+Este repositório contém um miniguia de estudo desenvolvido no NotebookLM,
+utilizando fontes de vídeos e textos para entender a metodologia de
+investimentos em valor proposta por **Benjamin Graham**.
 
-O projeto foi realizado como parte de um desafio de aprendizagem ativa,
-com foco em curadoria de fontes, elaboração de perguntas estratégicas e
-experimentação de prompts com apoio de IA.
+O trabalho foi realizado como parte de um desafio de aprendizagem ativa,
+utilizando a IA como ferramenta de organização de conhecimento e revisão.
 
 ## 🎯 Tema
 Metodologia de Investimentos em Valor segundo Benjamin Graham
 
 ## 🎯 Objetivos de Estudo
-- Compreender os fundamentos do investimento em valor
-- Entender conceitos como margem de segurança e valor intrínseco
-- Utilizar a IA como ferramenta de organização do conhecimento
-- Criar um sistema de revisão contínua (segundo cérebro)
+- Compreender os princípios do investimento em valor
+- Entender conceitos como valor intrínseco e margem de segurança
+- Relacionar a filosofia de Graham com práticas de investimento
+- Utilizar a IA para sintetizar e revisar conhecimento
 
 ## 🧠 Metodologia
-Foram utilizadas fontes abertas disponíveis em sites e vídeos do YouTube,
-adicionadas ao NotebookLM por meio de links. A partir dessas fontes, o
-NotebookLM foi utilizado como um segundo cérebro para responder perguntas,
-gerar resumos e testar variações de prompts.
+Foram selecionadas fontes abertas em texto e vídeos (YouTube). Os links foram
+inseridos no NotebookLM, que foi utilizado para:
+- Responder perguntas estratégicas
+- Criar resumos estruturados
+- Testar variações de prompts
+
+## 📂 Estrutura do Repositório
+  notebooklm-financas/
+  ├── README.md
+  ├── fontes/
+  │   └── fontes.md
+  └── miniguia.md
